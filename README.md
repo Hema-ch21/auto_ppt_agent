@@ -9,7 +9,6 @@ AI-powered tool that generates PowerPoint presentations automatically using Wiki
 - Wikipedia content extraction
 - Automatic slide creation
 - Canva-style design
-- Image integration
 - Streamlit UI
 
 ---
