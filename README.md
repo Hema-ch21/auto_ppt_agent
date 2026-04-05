@@ -19,3 +19,5 @@ AI-powered tool that generates PowerPoint presentations automatically using Wiki
 git clone https://github.com/your-username/auto_ppt_agent.git
 cd auto_ppt_agent
 pip install -r requirements.txt
+
+DEMO VIEDO : https://drive.google.com/file/d/1msdeSmtmw3ykQy3Vh13Rt2Hj9yaMEWGk/view?usp=sharing
