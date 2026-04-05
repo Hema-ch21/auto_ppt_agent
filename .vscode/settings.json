@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./auto_ppt_agent/mcp_server",
+        "./auto_ppt_agent/agent/ppt_"
+    ]
+}

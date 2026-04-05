@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+outputs/
+temp_images/
+.env
+.DS_Store
